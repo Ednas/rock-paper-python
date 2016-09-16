@@ -14,9 +14,10 @@ Then in your terminal put 'python3 rpp.py'
 -The terminal will tell you wether it was a Tie, Win or Loss.
 
 -The computer's choice is random
-
+```
 Reviews:
 
 Rated: 2 stars out of 5 
 by my daughter
 - "It's not very fun"
+```
